@@ -93,9 +93,11 @@ endmodule
 
 ### RTL LOGIC 
 Multiplexer
+
 ![244058006-3c028d6b-5f5e-4f31-a6f4-4510ffc151e4](https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/dc968525-3828-4e31-9d55-51109d006788)
 
 De-Multiplexer
+
 ![demux rtl](https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/d49939f2-0d00-4336-b9e8-dbf29cc0f48b)
 
 
@@ -109,9 +111,11 @@ De-Multiplexer
 
 ### TIMING DIGRAMS  
 Multiplexer
+
 ![muxtd](https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/f92207b3-c0f6-4076-835a-6ef00a47d540)
 
 De-Multiplexer
+
 ![demuxtd](https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/4273265c-ffb1-4458-a47f-596a1b0ac3c4)
 
 
@@ -119,9 +123,11 @@ De-Multiplexer
 
 ### TRUTH TABLE 
 Multiplexer
+
 <img width="235" alt="muxtt" src="https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/1a308578-2a20-4c1a-adbb-b59ab5ffecd8">
 
 De-Multiplexer
+
 <img width="614" alt="demuxtt" src="https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/70a00f62-5028-4857-bc74-c99522efb8fb">
 
 
