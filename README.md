@@ -93,6 +93,8 @@ endmodule
 
 ### RTL LOGIC 
 Multiplexer
+![244058006-3c028d6b-5f5e-4f31-a6f4-4510ffc151e4](https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/dc968525-3828-4e31-9d55-51109d006788)
+
 De-Multiplexer
 ![demux rtl](https://github.com/Hariharan2004S/Exercise-07-Multiplexer-and-De-multiplexer/assets/123146156/d49939f2-0d00-4336-b9e8-dbf29cc0f48b)
 
